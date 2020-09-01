@@ -1,0 +1,16 @@
+C:\Users\maconrm180\source\repos\Funwithvairables\bin\Debug\netcoreapp3.1\Funwithvairables.exe
+C:\Users\maconrm180\source\repos\Funwithvairables\bin\Debug\netcoreapp3.1\Funwithvairables.deps.json
+C:\Users\maconrm180\source\repos\Funwithvairables\bin\Debug\netcoreapp3.1\Funwithvairables.runtimeconfig.json
+C:\Users\maconrm180\source\repos\Funwithvairables\bin\Debug\netcoreapp3.1\Funwithvairables.runtimeconfig.dev.json
+C:\Users\maconrm180\source\repos\Funwithvairables\bin\Debug\netcoreapp3.1\Funwithvairables.dll
+C:\Users\maconrm180\source\repos\Funwithvairables\bin\Debug\netcoreapp3.1\Funwithvairables.pdb
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\Funwithvairables_MarkupCompile.cache
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\Funwithvairables_MarkupCompile.lref
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\Funwithvairables.g.resources
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\Funwithvairables.AssemblyInfoInputs.cache
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\Funwithvairables.AssemblyInfo.cs
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\Funwithvairables.dll
+C:\Users\maconrm180\source\repos\Funwithvairables\obj\Debug\netcoreapp3.1\Funwithvairables.pdb
